@@ -4,3 +4,6 @@ Add some text here about yourself
 I love git and github
 
 I can also have a summary of git cimmands here
+
+1. clone: Bringing an existing repository to git from a remote repository like github
+2. add: Track your files and changes in git
