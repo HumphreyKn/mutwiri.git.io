@@ -8,15 +8,28 @@ div{
 }
 a{
     text-decoration: none;
+    font-style: italic;
 }
 #newspan{ /*This is an id. It is only used once*/
     background: aqua;
     color: #0b692fd3;
 }
+.red{
+    background: red;
+   
+}
+#mymargin{
+    background: #009bff;
+    margin: 50px 5px 10px;
+    border: yellow solid 3px;
+    /*border-color: #5c2929;*/
+    padding: 30px;
+}
 .newspan{
     background: yellowgreen;
     font-weight: bold;
     font-size: 18px;
+    
 }
 img{
     width: 100%;
@@ -47,4 +60,7 @@ nav a{
 }
 nav a:hover, a:active{
     background-color: #009bff;
+}
+nav a:visited{
+    color: #009bff;
 }
