@@ -5,6 +5,15 @@ div{
     margin: 20px;
     width: 50%;
 }
+#newspan{ /*This is an id. It is only used once*/
+    background: aqua;
+    color: #0b692fd3;
+}
+.newspan{
+    background: yellowgreen;
+    font-weight: bold;
+    font-size: 18px;
+}
 img{
     width: 100%;
 }
