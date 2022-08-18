@@ -4,6 +4,10 @@ div{
     color: #5c2929;
     margin: 20px;
     width: 50%;
+    text-align: center;
+}
+a{
+    text-decoration: none;
 }
 #newspan{ /*This is an id. It is only used once*/
     background: aqua;
